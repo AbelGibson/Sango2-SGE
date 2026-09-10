@@ -1,1 +1,14 @@
-
+{
+  "version": "3.0.0",
+  "release_date": "2026-09-11",
+  "notes": "版本 3.0.0 常规功能更新与性能优化。",
+  "windows_url": "https://github.com/AbelGibson/Sango2-SGE/releases/download/v3.0.0/Sango2-SGE.exe",
+  "mirrors": [
+    "https://ghproxy.net/https://github.com/AbelGibson/Sango2-SGE/releases/download/v3.0.0/Sango2-SGE.exe",
+    "https://mirror.ghproxy.com/https://github.com/AbelGibson/Sango2-SGE/releases/download/v3.0.0/Sango2-SGE.exe"
+  ],
+  "min_version": "3.0.0",
+  "force": true,
+  "sha256": "9f6bb20b03069dbb1777a833cac4438d29913b4ebe524a68c5bb6df92983e908",
+  "minimum_config_version": 1
+}
