@@ -9,6 +9,6 @@
   ],
   "min_version": "3.0.0",
   "force": true,
-  "sha256": "",
+  "sha256": null,
   "minimum_config_version": 1
 }
