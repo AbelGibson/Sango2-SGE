@@ -1,14 +1,14 @@
 {
-  "version": "3.1.0",
-  "release_date": "2026-09-23",
-  "notes": "1.支持MOD版本，因精力有限只测试了个别MOD，不保证每个MOD版本都能使用，需要的自行测试\n2.修复已知Bug",
-  "windows_url": "https://ghproxy.net/https://github.com/AbelGibson/Sango2-SGE/releases/download/v3.1.0/Sango2-SGE.exe",
+  "version": "3.2.0",
+  "release_date": "2026-10-01",
+  "notes": "1.修复已知Bug",
+  "windows_url": "https://ghproxy.net/https://github.com/AbelGibson/Sango2-SGE/releases/download/v3.2.0/Sango2-SGE.exe",
   "mirrors": [
-    "https://mirror.ghproxy.com/https://github.com/AbelGibson/Sango2-SGE/releases/download/v3.1.0/Sango2-SGE.exe",
-    "https://github.com/AbelGibson/Sango2-SGE/releases/download/v3.1.0/Sango2-SGE.exe"
+    "https://mirror.ghproxy.com/https://github.com/AbelGibson/Sango2-SGE/releases/download/v3.2.0/Sango2-SGE.exe",
+    "https://github.com/AbelGibson/Sango2-SGE/releases/download/v3.2.0/Sango2-SGE.exe"
   ],
   "min_version": null,
   "force": false,
-  "sha256": "fe521c7ac7128e05aab732373430eaa50b2795f221d45f3207660661a11c08ee",
+  "sha256": "2682f1da5a35d8ddb194f4ef7252e72e6928f6ff636ea78debf6010965b50445",
   "minimum_config_version": 1
 }
